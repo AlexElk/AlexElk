@@ -1,6 +1,6 @@
 # Summary
 
-Software Developer with a strong foundation in full-stack and game development. I build scalable applications using C# and React.
+Software Developer. I build applications using C#, React, and more.
 
 # Skills
 
