@@ -1,6 +1,6 @@
 # Summary
 
-Software Developer. I build applications using C#, React, and more.
+Software Developer. I build applications using .Net, Next.js, and more.
 
 # Skills
 
